@@ -7,7 +7,7 @@
     for the private key. After sending the email, the script deletes the PFX file.
 .NOTES
     File Name: Export-SMIMECertificate.ps1
-    Author   : Ralf Entner
+    Author   : Tsukaito
     Date     : 2024-03-24
  
     Version History:
