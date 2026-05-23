@@ -1,36 +1,39 @@
-# Powershell Scripts
+# PowerShell Repository
 
-## Welcome! 👋
+A small collection of PowerShell scripts for Windows administration, automation, and daily IT tasks. This repository is intended as a practical reference for reusable scripts that can be tested, customized, and adapted to different environments.
 
-This repository contains PowerShell scripts for IT administration and automation.
+## Overview
 
-## 📋 Contents
+The scripts in this repository focus on real-world administrative and support tasks. Each script is designed to be clear, practical, and easy to modify for lab or production use.
 
-Various scripts for system administration, network management, and automation tasks.
+## Requirements
 
-## ⚠️ Important Disclaimer
+- PowerShell installed
+- Windows or a supported PowerShell environment
+- Basic knowledge of PowerShell
+- Administrative permissions where required
 
-**These scripts are provided "AS IS":**
+## Usage
 
+1. Download or clone the repository.
+2. Open the script in a text editor or PowerShell ISE / Visual Studio Code.
+3. Review the script before execution.
+4. Run the script in PowerShell.
 
-## 🚀 Usage Instructions
+Example:
 
-1. **Test Environment**: Always test first!
-2. **Configuration**: Adjust paths and settings to your environment
-3. **Permissions**: Verify required administrative rights
-4. **Logging**: Check generated log files for results
-5. **Validation**: Verify changes after execution
+```powershell
+.\scriptname.ps1
+```
 
-## 📞 Contact
+## Notes
 
-For questions or improvements:
-- Create Issues (include reproducible error messages)
-- Pull Requests welcome!
+Always test scripts in a lab or non-production environment before using them in production. Some scripts may require elevated privileges or specific modules depending on their function.
 
-## 📄 License
+## Disclaimer
 
-MIT License - see [LICENSE](LICENSE) file for details.
+These scripts are provided as-is, without warranty of any kind. Use them at your own risk and review the code carefully before execution.
 
----
+## Author
 
-**Happy Administering! 🎉**
+Maintained by Tsukaito
